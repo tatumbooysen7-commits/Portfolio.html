@@ -26,7 +26,7 @@ View the site here: https://tatumbooysen7-commits.github.io/Webpage_project.html
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tatumbooysen/webpage_project.html-css.git
+   git clone https://github.com/tatumbooysen7-commits/Portfolio.html.git
    ```
 2. Open `index.html` in your browser.
 
