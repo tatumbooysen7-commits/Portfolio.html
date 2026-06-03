@@ -4,7 +4,7 @@ A simple, responsive personal portfolio built with HTML, CSS, and a bit of JavaS
 
 ## Live Demo
 
-View the site here: https://tatumbooysen7-commits.github.io/Webpage_project.html-css/
+View the site here:  https://tatumbooysen7-commits.github.io/Portfolio.html/
 
 ## Features
 
